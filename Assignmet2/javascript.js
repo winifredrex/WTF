@@ -196,6 +196,7 @@ let account1Status;
 let account2Status;
 let account3Status;
 let account4Status;
+
 if(account1.balance > 0){
     console.log("Account 1 is Active");
      account1Status = "Active";
